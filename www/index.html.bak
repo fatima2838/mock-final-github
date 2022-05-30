@@ -19,14 +19,6 @@
 
 <!-- only for home page--> 
 
-#random{
-width: 300px; 
-height: auto; 
-text-justify: left; 
-
-
-} 
-
 
 
 </style> 
@@ -56,29 +48,40 @@ text-justify: left;
 
 </div> 
 
-<hr>
 <div class="row"> 
-
+<hr>
 <div class="col-2" > 
 <a href="index.html"> Home</a> </div> 
 
 <div class="col-2" > 
 <a href="game.html"> Game</a> </div> 
 
-
-</div> 
 <hr> 
-
 </div> 
 
-<p  class="container" id="random"> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a tempus ex. Donec efficitur pellentesque nibh. Sed sodales enim justo, in gravida ipsum sodales a. Quisque scelerisque purus vel ex cursus consectetur. Phasellus vitae luctus elit, eu maximus turpis. Nullam eu felis nec elit tincidunt eleifend nec nec nunc. Etiam a placerat quam, at bibendum est. Aenean consectetur purus non mi pulvinar lobortis. Cras vitae lorem et quam euismod sollicitudin. Aenean ut rutrum justo, at bibendum risus. Aliquam luctus, nisi id venenatis tempor, turpis magna dignissim purus, id condimentum mi sapien ac purus.
+</div> 
+<div id="random"> 
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam eleifend tellus eu erat convallis, id pellentesque urna congue. Vivamus leo lectus, lacinia ut venenatis in, aliquam at sapien. Proin aliquet justo nec pulvinar gravida. Proin nec ante at odio imperdiet gravida vel a enim. Morbi tempus magna dolor. Nam posuere vitae ante ut vulputate. Duis sodales mauris id vestibulum scelerisque. Ut et hendrerit lectus. Sed congue commodo nisl sit amet vehicula. Donec tincidunt, ipsum et vulputate fermentum, justo eros iaculis tellus, et elementum est enim vel metus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a tempus ex. 
+Donec efficitur pellentesque nibh. Sed sodales enim justo, in gravida ipsum sodales 
+a. Quisque scelerisque purus vel ex cursus consectetur. Phasellus vitae luctus elit, 
+eu maximus turpis. Nullam eu felis nec elit tincidunt eleifend nec nec nunc. Etiam a
+placerat quam, at bibendum est. Aenean consectetur purus non mi pulvinar lobortis. 
+Cras vitae lorem et quam euismod sollicitudin. Aenean ut rutrum justo, at bibendum 
+risus. Aliquam luctus, nisi id venenatis tempor, turpis magna dignissim purus, id 
+condimentum mi sapien ac purus.
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
+mus. Aliquam eleifend tellus eu erat convallis, id pellentesque urna congue. Vivamus 
+leo lectus, lacinia ut venenatis in, aliquam at sapien. Proin aliquet justo nec pulvinar 
+gravida. Proin nec ante at odio imperdiet gravida vel a enim. Morbi tempus magna dolor. 
+Nam posuere vitae ante ut vulputate. Duis sodales mauris id vestibulum scelerisque. Ut et
+ hendrerit lectus. Sed congue commodo nisl sit amet vehicula. Donec tincidunt, ipsum et
+ vulputate fermentum, justo eros iaculis tellus, et elementum est enim vel metus.
 
 
-</p>
+</div> 
 
 
 

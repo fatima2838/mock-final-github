@@ -56,17 +56,18 @@ text-justify: left;
 
 </div> 
 
-<div class="row"> 
 <hr>
+<div class="row"> 
+
 <div class="col-2" > 
 <a href="index.html"> Home</a> </div> 
 
 <div class="col-2" > 
 <a href="game.html"> Game</a> </div> 
 
-<hr> 
-</div> 
 
+</div> 
+<hr> 
 
 </div> 
 

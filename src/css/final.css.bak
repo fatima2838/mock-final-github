@@ -25,8 +25,3 @@ width: 5px;
 	font-family: Arial; 
 	
 } 
-
-
-a{
-	vertical-align: middle;
-}
